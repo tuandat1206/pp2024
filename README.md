@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: nguyen doan tuan da
+* Student Name: nguyen doan tuan dat
 * Student ID: bi12-079
 
